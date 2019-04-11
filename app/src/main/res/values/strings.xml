@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">RetrofitExample</string>
+    <string name="high_temperature">high temperature</string>
+    <string name="low_temperature">low_temperature</string>
+</resources>
